@@ -1,2 +1,3 @@
-Git Tutorial
+# Git Tutorial
 Ren Aomi
+UChicago Student Resource Guide
